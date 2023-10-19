@@ -21,6 +21,8 @@ const App: React.FC = () => {
   };
 
   console.log('selectedImage', selectedImage);
+  console.log('isVisible', isVisible);
+  
   
 
   return (
