@@ -20,6 +20,9 @@ const App: React.FC = () => {
     setSelectedImage(image);
   };
 
+  console.log('selectedImage', selectedImage);
+  
+
   return (
     <div className="App">
       <div
