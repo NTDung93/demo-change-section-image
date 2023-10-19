@@ -20,7 +20,7 @@ const App: React.FC = () => {
     setSelectedImage(image);
   };
 
-  console.log('selectedImage', selectedImage);
+  console.log('selectedImage', selectedImag);
   console.log('isVisible', isVisible);
   
   
